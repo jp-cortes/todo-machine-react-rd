@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todo-machine-react-rd/static/css/main.f6a79058.chunk.css",
+    "main.js": "/todo-machine-react-rd/static/js/main.e194ea0e.chunk.js",
+    "main.js.map": "/todo-machine-react-rd/static/js/main.e194ea0e.chunk.js.map",
+    "runtime-main.js": "/todo-machine-react-rd/static/js/runtime-main.7da0c8f4.js",
+    "runtime-main.js.map": "/todo-machine-react-rd/static/js/runtime-main.7da0c8f4.js.map",
+    "static/js/2.8356660d.chunk.js": "/todo-machine-react-rd/static/js/2.8356660d.chunk.js",
+    "static/js/2.8356660d.chunk.js.map": "/todo-machine-react-rd/static/js/2.8356660d.chunk.js.map",
+    "index.html": "/todo-machine-react-rd/index.html",
+    "static/css/main.f6a79058.chunk.css.map": "/todo-machine-react-rd/static/css/main.f6a79058.chunk.css.map",
+    "static/js/2.8356660d.chunk.js.LICENSE.txt": "/todo-machine-react-rd/static/js/2.8356660d.chunk.js.LICENSE.txt",
+    "static/media/check.fa4fb594.svg": "/todo-machine-react-rd/static/media/check.fa4fb594.svg",
+    "static/media/delete.331149da.svg": "/todo-machine-react-rd/static/media/delete.331149da.svg",
+    "static/media/edit.569363b1.svg": "/todo-machine-react-rd/static/media/edit.569363b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7da0c8f4.js",
+    "static/js/2.8356660d.chunk.js",
+    "static/css/main.f6a79058.chunk.css",
+    "static/js/main.e194ea0e.chunk.js"
+  ]
+}
