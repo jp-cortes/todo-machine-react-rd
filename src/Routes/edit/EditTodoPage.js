@@ -13,12 +13,11 @@ function EditTodoPage(){
     // const id = params.id; // using cripto.randomUUID()
     
     let todoText;
-    console.log(location, 'edit todo');
-    if(location.state?.text){
-        todoText = location.state.todo.text;
-    }
-    else if(loading) {
+    // console.log(location, 'edit todo');
+    if(loading) {
         return<p>loading...</p>
+    } else if(location.state?.text){
+        todoText = location.state.todo.text;
     }else{
         const todo = getTodo(id);
         todoText = todo.text;
